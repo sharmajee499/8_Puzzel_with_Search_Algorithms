@@ -8,7 +8,7 @@ below Figure 2. The objective is to find the needed steps to get from initial st
 to the goal state. The blank tile can be moved in the up, down, left, and right direction. It couldn’t be moved diagonally, and we can only take one step 
 at a time
 
-![Initial and Goal State](../img/initial_goal_state.png)
+![Initial and Goal State](https://github.com/sharmajee499/8_Puzzel_with_Search_Algorithms/blob/master/img/initial_goal_state.png)
 
 ### Algorithms Implemented:
 1. [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
@@ -21,7 +21,7 @@ The below picture shows the performance and efficiency of the respective
 algorithm. A* is the complete as well as optimal algorithm as compared to other
 two. 
 
-![emperical result](../img/emperical_result.png)
+![emperical result](https://github.com/sharmajee499/8_Puzzel_with_Search_Algorithms/blob/master/img/emperical_result.png)
 
 *Note: The time may vary depending upon the machine/computer*
 
